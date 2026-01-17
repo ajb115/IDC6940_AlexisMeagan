@@ -48,14 +48,41 @@ The introduction should:
 
 -   Provide an overview of your approach.
 
-Source 1 Summary - https://www.sciencedirect.com/science/article/pii/S0022169420309914?casa_token=kzXuK-KR6Q0AAAAA:XxH1CSWUThtWAHCdrmOfKvDuT7pEDgwYCMu8aLtwEkqRaFVR3NFQw-FRoZTSKwLZ6mUzQ1s 
-The article described an analysis comparing a hydrological mapping model with a random forest model for mapping large-scale flood simulations. The study described how the random forest technique was optimal for performing hydrological studies due to the ability of the machine learning model to map flood risk analysis for hazard assessment with a low-cost application of the non-traditional model compared to rainfall-runoff models. The flood simulation focuses on water basins in Canada and the US with low to medium magnitude floods in low altitudes with warm temperatures. The study found that the conditional discharge rate in the random forest model differed from the mean of conditional discharge. However, the random forest model was able to reproduce the characteristics of the studied flood events and represented the daily flood discharge well in comparison with the hydromad model. The higher magnitude of flooring deterioration affected the model’s accuracy, with a slight preference towards the hydromad model. The study concludes that the random forest model is a promising contender for use in flood discharge and risk, but may require further improvements before being implemented in higher-magnitude flooding scenarios.
+Source 1 Summary -
+https://www.sciencedirect.com/science/article/pii/S0022169420309914?casa_token=kzXuK-KR6Q0AAAAA:XxH1CSWUThtWAHCdrmOfKvDuT7pEDgwYCMu8aLtwEkqRaFVR3NFQw-FRoZTSKwLZ6mUzQ1s
+The article described an analysis comparing a hydrological mapping model
+with a random forest model for mapping large-scale flood simulations.
+The study described how the random forest technique was optimal for
+performing hydrological studies due to the ability of the machine
+learning model to map flood risk analysis for hazard assessment with a
+low-cost application of the non-traditional model compared to
+rainfall-runoff models. The flood simulation focuses on water basins in
+Canada and the US with low to medium magnitude floods in low altitudes
+with warm temperatures. The study found that the conditional discharge
+rate in the random forest model differed from the mean of conditional
+discharge. However, the random forest model was able to reproduce the
+characteristics of the studied flood events and represented the daily
+flood discharge well in comparison with the hydromad model. The higher
+magnitude of flooring deterioration affected the model’s accuracy, with
+a slight preference towards the hydromad model. The study concludes that
+the random forest model is a promising contender for use in flood
+discharge and risk, but may require further improvements before being
+implemented in higher-magnitude flooding scenarios.
 
-Source 2 Summary - https://link.springer.com/article/10.1007/s00521-021-05757-6 
-This article assesses the risks of flood and its application to hazard management with the random forest algorithm application. The flood disaster risk is weighed within an index of a flood risk assessment that ArcGIS integrated into the model. The decision tree classifiers from the random forest algorithm are used to vote on the classifiers of flood risk. The study utilizes a combination of remote sensing, geographical, and statistical data to model the disaster risk. Five levels of risk are created to define disaster loss variability. The study concludes that the random forest application to the time series flood risk data is useful for large-scale disaster evaluation. The study emphasizes human loss and property damage as the most important indicators of flood risk analysis (within their research). 
-
-
-
+Source 2 Summary -
+https://link.springer.com/article/10.1007/s00521-021-05757-6 This
+article assesses the risks of flood and its application to hazard
+management with the random forest algorithm application. The flood
+disaster risk is weighed within an index of a flood risk assessment that
+ArcGIS integrated into the model. The decision tree classifiers from the
+random forest algorithm are used to vote on the classifiers of flood
+risk. The study utilizes a combination of remote sensing, geographical,
+and statistical data to model the disaster risk. Five levels of risk are
+created to define disaster loss variability. The study concludes that
+the random forest application to the time series flood risk data is
+useful for large-scale disaster evaluation. The study emphasizes human
+loss and property damage as the most important indicators of flood risk
+analysis (within their research).
 
 Example of writing including citing references:
 
